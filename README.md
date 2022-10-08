@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Tyson O'Leary @tmoleary21
-- 👀 I’m interested in software development for general use and learning about cool algorithms.
-- 🌱 I’m currently learning about GUI development with Java, Python programming, levels of abstraction in a computer architecture, assembly code, and C programming.
+- 👀 I’m interested in software development with clean code and learning about cool algorithms.
 - 💞️ I’m looking to collaborate on anything interesting!
-- 📫 How to reach me ... tmoleary@colostate.edu
+- 📫 How to reach me ... olearytyson@gmail.com
                           
 
 <!---
